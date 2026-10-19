@@ -1,0 +1,8 @@
+{
+  "name": "FurgónSeguro - Transporte Escolar Confiable",
+  "description": "Plataforma de transporte escolar verificado para apoderados y conductores con gestión de cupos, documentación legal y seguimiento de ruta en vivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
